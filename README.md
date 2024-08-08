@@ -2,9 +2,9 @@
 
 Este projeto é um simples sistema de tabelas que permite criar, visualizar e manipular dados tabulares diretamente em um ambiente web.
 
+-
+--
 ---
-"---"
-'---'
 
 
 
