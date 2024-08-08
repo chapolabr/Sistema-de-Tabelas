@@ -29,7 +29,8 @@ cd sistema-de-tabelas
 # Instale as dependências (se houver)
 npm install
 
-## Uso
+**## Instalação**
+
 Para iniciar o sistema de tabelas, use o comando abaixo:
 npm start
 
